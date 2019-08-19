@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.TentangActivity"
+    android:orientation="vertical"
+    android:padding="20dp">
+    
+    <TextView
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SISTEM INFORMASI\nTOKO AKSESORIS MOTOR\nDI JAKARTA"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textColor="@color/colorPrimary"/>
+
+    <TextView
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="versi 1.0"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textColor="@color/colorPrimary"/>
+    <TextView
+        android:layout_marginTop="100dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dibuat Oleh :\nAgung Sedayu"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textColor="@color/colorPrimary"/>
+
+
+
+</LinearLayout>
